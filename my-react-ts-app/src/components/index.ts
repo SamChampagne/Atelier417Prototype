@@ -1,9 +1,0 @@
-export { Navigation } from "./Navigation";
-export { Hero } from "./Hero";
-export { ProjectCard } from "./ProjectCard";
-export { Realisations } from "./Realisations";
-export { ProcessStepCard } from "./ProcessStepCard";
-export { Processus } from "./Processus";
-export { Apropos } from "./Apropos";
-export { Contact } from "./Contact";
-export { Footer } from "./Footer";
